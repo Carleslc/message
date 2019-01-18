@@ -1,5 +1,3 @@
-# Message
-
 Install once. Write your text. Build it. Publish with [Netlify Drop](https://app.netlify.com/drop). Share.
 
 ## Install
