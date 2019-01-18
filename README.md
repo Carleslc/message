@@ -5,9 +5,16 @@
 ## Build
 
 ```bash
-pandoc message.md -o example.html --css style.css --self-contained --metadata title="Ejemplo"
+mkdir example
+pandoc message.md -o example/index.html --css style.css --self-contained --metadata title="Ejemplo"
 ```
+
+## Deploy
+
+Use a cloud service like Dropbox or pCloud to generate a URL, or use an online service like Netlify Drop to publish your message.
+
+- [Netlify Drop](https://app.netlify.com/drop)
 
 ## Example
 
-https://carleslc.me/message/example.html
+Folder with example message https://carleslc.me/message/example/ is deployed [here](https://eager-elion-4ce525.netlify.com/) using Netlify.
