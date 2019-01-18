@@ -11,10 +11,14 @@ pandoc message.md -o example/index.html --css style.css --self-contained --metad
 
 ## Deploy
 
-Use a cloud service like Dropbox or pCloud to generate a URL, or use an online service like Netlify Drop to publish your message.
+There are several options.
 
-- [Netlify Drop](https://app.netlify.com/drop)
+- Host in your own server.
+- Host for free with a GitHub repository using [GitHub Pages](https://pages.github.com/).
+- Use a cloud service like [Dropbox](https://www.dropbox.com/) or [pCloud](https://www.pcloud.com/) to generate an online URL.
+- Use an online service like [Netlify Drop](https://app.netlify.com/drop) to publish your site for free.
 
 ## Example
 
-Folder with example message https://carleslc.me/message/example/ is deployed [here](https://eager-elion-4ce525.netlify.com/) using Netlify.
+- https://carleslc.me/message/example/ using [GitHub Pages](https://pages.github.com/).
+- https://eager-elion-4ce525.netlify.com/ using [Netlify](https://app.netlify.com/drop).
