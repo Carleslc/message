@@ -10,9 +10,9 @@ Otra opción es usar una hoja de **Excel** o **Google Spreadsheets** usando una 
 
 ## Creando un diagrama sencillo
 
-Si no necesitamos trazabilidad de tareas y solo queremos hacer un diagrama sencillo podemos usar la página https://carleslc.me/Gantt/, con el que obtendremos un resultado como el que se muestra aquí:
+Si no necesitamos trazabilidad de tareas y solo queremos hacer un diagrama sencillo podemos usar la página [https://carleslc.me/Gantt/](https://carleslc.me/Gantt/), con el que obtendremos un resultado como el que se muestra [aquí](https://carleslc.me/message/example/gantt/resultado.png).
 
-![](/Users/carleslc/MEGA/Productividad/Project Management/RunbenGuo (Pruebas)/gantt curso.png)
+![gantt curso](images/resultado.png)
 
 Cuando accedemos a la página nos encontramos con nuestro espacio de trabajo, con diferentes opciones para poder crear nuestro diagrama:
 
@@ -26,36 +26,44 @@ Cuando pulsamos en el "+" nos aparece una ventana para rellenar la información 
 
 ![](images/task.png)
 
-Añadimos una pequeña descripción como título (Description) de la tarea y le damos a guardar (Save). Las fechas de inicio y final las podemos especificar ahora o más tarde, estirando la tarea arrastrando desde sus laterales.
+Añadimos una pequeña descripción como **título** (Description) de la tarea y le damos a guardar (Save). Las **fechas** de inicio y final las podemos especificar ahora o más tarde, *estirando* la tarea arrastrando desde sus laterales.
 
-Aquí consideraremos un **proyecto** como un conjunto de tareas, que se muestran en el diagrama de color verde. Sirven para mejorar la visualización de etapas más generales. Las tareas se muestran en color azul. Podemos crear un proyecto añadiendo subtareas, como se muestra en el gráfico siguiente.
+Aquí consideraremos un **proyecto** como un conjunto de tareas, y se muestra en el diagrama de color verde. Sirven para mejorar la visualización de etapas más generales. Las tareas se muestran en color azul. Podemos crear un proyecto añadiendo subtareas, como se muestra en el gráfico siguiente.
 
 ![](images/project.png)
 
-Puedes editar una tarea haciendo doble click sobre ella.
+Puedes **editar** una tarea haciendo *doble click* sobre ella.
 
-Puedes especificar dependencias usando flechas, mediante los círculos a los laterales de las tareas.
+Si quieres, puedes especificar **dependencias** usando flechas, mediante los círculos a los laterales de las tareas.
 
 ![](images/dependencias.png)
 
-Puedes definir *milestones* a la hora de crear una tarea. Esto son objetivos, y se muestran en morado.
+Puedes definir *milestones* a la hora de crear una tarea. Esto son **objetivos**, y se muestran en morado.
 
 ![](images/milestone.png)
 
-Puedes modificar el zoom del diagrama para verlo de forma más global. Hay tres niveles de Zoom: semanal, mensual y anual. Así queda el diagrama en visualización anual:
+Puedes modificar el **zoom** del diagrama para verlo de forma más global. Hay tres niveles de zoom: semanal, mensual y anual. Así queda el diagrama en visualización anual:
 
 ![](images/zoom.png)
 
-La opción "Show Today" te permite señalar dónde nos encontramos actualmente.
+La opción *"Show Today"* te permite señalar dónde nos encontramos actualmente.
 
-A la hora de añadir tareas puedes usar la opción "Preference" Consecutive / Parallel, para añadirlas después de la anterior o debajo de forma solapada. Las funciones Indent / Outdent son para añadir tareas existentes a proyectos o para sacarlas de un proyecto. Puedes mover tareas desde el árbol de tareas y también puedes seleccionar más de una tarea a la vez con Shift o Control.
+A la hora de añadir tareas puedes usar la opción *"Preference" Consecutive / Parallel*, para añadirlas después de la anterior o debajo de forma solapada. Las funciones *Indent / Outdent* son para añadir tareas existentes a proyectos o para sacarlas de un proyecto. Puedes mover tareas desde el árbol de tareas y también puedes **seleccionar** más de una tarea a la vez manteniendo pulsado *Shift* o *Control*.
 
-También puedes cambiar el estilo del diagrama.
+Las opciones "Expand Task/Project Titles" sirven para añadir el título de la tarea o proyecto al lado, para verse incluso si por el zoom o la duración de la tarea el título queda cortado.
+
+En la siguiente imagen hemos marcado la opción "Expand Task Titles".
+
+![](images/expand.png)
+
+También puedes cambiar el **estilo** del diagrama.
 
 ![](images/style.png)
 
-Cuando hayas terminado, puedes exportar el diagrama en varios formatos (PNG, PDF, Excel o iCal). El formato iCal sirve para añadirlo a un calendario existente como el de Google Calendar.
+Cuando hayas terminado, puedes **exportar** el diagrama en varios formatos (PNG, PDF, Excel o iCal). El formato **iCal** sirve para añadirlo a un calendario existente como el de Google Calendar.
 
 ![](images/export.png)
 
-Para poderlo guardar y editar más tarde utiliza la opción "Save" arriba de la página. Esto descargará un documento en formato JSON que podrás cargar usando la opción "Load" cuando vuelvas más tarde a esta página.
+Para poder **guardar** el diagrama y **editarlo más tarde** utiliza la opción "Save" arriba de la página y luego haz click en "Download". Esto descargará un documento en formato JSON que podrás cargar usando la opción "Load" cuando vuelvas más tarde a esta página.
+
+![](images/save.png)
