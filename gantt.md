@@ -10,9 +10,9 @@ Otra opción es usar una hoja de **Excel** o **Google Spreadsheets** usando una 
 
 ## Creando un diagrama sencillo
 
-Si no necesitamos trazabilidad de tareas y solo queremos hacer un diagrama sencillo podemos usar la página [https://carleslc.me/Gantt/](https://carleslc.me/Gantt/), con el que obtendremos un resultado como el que se muestra [aquí](https://carleslc.me/message/example/gantt/resultado.png).
+Si no necesitamos trazabilidad de tareas y solo queremos hacer un diagrama sencillo podemos usar la página [https://carleslc.me/Gantt/](https://carleslc.me/Gantt/), con el que obtendremos un resultado como el que se muestra a continuación.
 
-![](images/resultado.png)
+![Haz click [aquí](https://carleslc.me/message/images/resultado.png) para visualizarlo mejor](images/resultado.png)
 
 Cuando accedemos a la página nos encontramos con nuestro espacio de trabajo, con diferentes opciones para poder crear nuestro diagrama:
 
