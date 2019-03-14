@@ -12,7 +12,7 @@ Otra opción es usar una hoja de **Excel** o **Google Spreadsheets** usando una 
 
 Si no necesitamos trazabilidad de tareas y solo queremos hacer un diagrama sencillo podemos usar la página [https://carleslc.me/Gantt/](https://carleslc.me/Gantt/), con el que obtendremos un resultado como el que se muestra [aquí](https://carleslc.me/message/example/gantt/resultado.png).
 
-![gantt curso](images/resultado.png)
+![](images/resultado.png)
 
 Cuando accedemos a la página nos encontramos con nuestro espacio de trabajo, con diferentes opciones para poder crear nuestro diagrama:
 
