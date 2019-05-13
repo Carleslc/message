@@ -1,4 +1,7 @@
-Install once. Write your text. Build it. Publish with [Netlify Drop](https://app.netlify.com/drop). Share.
+_Install once. Write your text. Build it. Publish with [Netlify Drop](https://app.netlify.com/drop). Share._
+
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C2VFGD)
 
 ## Install
 
