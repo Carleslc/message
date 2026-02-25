@@ -16,7 +16,7 @@ Only the first time.
 pandoc example/message.md -o example/index.html --css styles/style.css --standalone --embed-resources --metadata title="Ejemplo"
 ```
 
-You can also use styles directly from url: `--css https://carleslc.me/message/styles/style.css`
+You can also use [**styles**](styles) directly from url: `--css https://carleslc.me/message/styles/style.css`
 
 ## Deploy
 
